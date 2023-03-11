@@ -4,7 +4,8 @@
   "description": "MERN React Admin Dashboard with  Redux Toolkit",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm start",
+    "dev": "nodemon start"
   },
   "author": "Prathmesh Sadake",
   "license": "ISC",
